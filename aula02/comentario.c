@@ -8,7 +8,7 @@ int main()
     comentario de varias linhas
     */
 
-   printf("Ola mundo!\n");
+   printf ("Ola mundo!\n");
 
    return 0;
 }
